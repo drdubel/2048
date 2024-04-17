@@ -1,4 +1,4 @@
-package game2048.drdubel.pl.game2048
+package game2048.drdubel.pl
 
 import io.flutter.embedding.android.FlutterActivity
 

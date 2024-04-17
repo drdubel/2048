@@ -9,7 +9,7 @@ const buttonColor = Color(0xff8f7a66);
 const scoreColor = Color(0xffbbada0);
 const overlayColor = Color.fromRGBO(238, 228, 218, 0.73);
 
-const color2 = Color(0xffeee4da);
+const color2 = Color(0xffeee4de);
 const color4 = Color(0xffeee1c9);
 const color8 = Color(0xfff3b27a);
 const color16 = Color(0xfff69664);
