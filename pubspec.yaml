@@ -1,4 +1,4 @@
-name: game2048
+name: yet_another_2048_game
 description: "A 2048 game."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

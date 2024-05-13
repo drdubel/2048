@@ -407,9 +407,10 @@ class _Game2048State extends State<Game2048> {
                       var left = z * (tileSize) + ((z + 1) * 12.0);
 
                       return AnimatedPositioned(
-                        duration: const Duration(milliseconds: 200),
+                        duration: const Duration(milliseconds: 2000),
                         top: top,
                         left: left,
+                        curve: Curves.fastOutSlowIn,
                         child: Container(
                           width: tileSize,
                           height: tileSize,
